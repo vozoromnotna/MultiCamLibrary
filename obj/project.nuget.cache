@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GuPK2PyDBQbmNY+wWypXS5egdYq/5R2SABkm3ZXcDIX0bBdaEq8zFeupNHLsRPAj/iLJ/VyorjSzAGwP/SPatQ==",
+  "success": true,
+  "projectFilePath": "E:\\Programming\\C#\\MultiCamLibrary\\MultiCamLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
